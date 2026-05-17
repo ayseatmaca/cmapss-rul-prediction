@@ -1,0 +1,6 @@
+Subset,Model,Tip,RMSE,R2,Score,Best_Ep,Lambda
+FD001,A2B en iyi (GRU Meta),A2B_ref,12.762,0.8157,—,—,—
+FD001,BL+Attn_Physics,Asama3,13.3026,0.7997,41099.4,19,0.05
+FD001,Transformer_Physics,Asama3,13.0756,0.8065,33159.3,29,0.05
+FD001,Basit_a=0.45,Asama3,12.5756,0.821,30987.3,—,0.05
+FD001,GRU_Meta,Asama3,12.5728,0.8211,30217.4,5,0.05

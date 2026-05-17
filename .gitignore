@@ -1,0 +1,19 @@
+
+
+# Checkpoint dosyalari
+
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Cache
+
+**pycache**/
+.ipynb_checkpoints/
+
+# Büyük dosyalar
+
+*.zip
+*.rar
+*.7z

@@ -1,0 +1,6 @@
+Model,Tip,RMSE,R2,Score,Best_Ep
+Bi-LSTM 50ep (ref),Referans,13.43,0.7959,30901.6,—
+Bi-LSTM v2 ES,Aşama1,13.2306,0.8019,35646.4,11
+Transformer ES,Aşama1,13.5555,0.7921,43847.9,9
+Basit Ensemble a=0.65,Aşama1,13.1041,0.8057,36731.5,—
+GRU Stacking,Aşama1,13.2468,0.8014,40448.6,3

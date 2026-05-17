@@ -1,0 +1,6 @@
+Subset,Model,Tip,RMSE,R2,Score,Best_Ep
+FD003,Aşama1 en iyi,ref,10.431,0.8461,—,—
+FD003,Bi-LSTM v2 (A1 ckpt),Aşama2A,11.1613,0.8238,60883.7,(A1)
+FD003,MSCNNTransformer,Aşama2A,11.6425,0.8082,47473.8,28
+FD003,Basit Ens a=0.65,Aşama2A,10.9181,0.8313,49287.9,—
+FD003,GRU Meta,Aşama2A,10.8939,0.8321,43116.3,2

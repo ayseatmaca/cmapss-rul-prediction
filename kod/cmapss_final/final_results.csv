@@ -1,0 +1,5 @@
+Subset,RMSE,MAE,R2,Score,Source,Pipeline,A1_RMSE,A2B_RMSE,Improvement_pct
+FD001,12.5726,8.5593,0.8211,30216.2,A3 (Physics λ=0.05),BiLSTM+Attn+ClusterNorm+PhysLoss+GRUMeta,13.104,12.762,4.05
+FD002,15.2303,10.4958,0.7585,167965.9,A3 (Physics λ=0.05),BiLSTM+Attn+ClusterNorm+PhysLoss+BasitEns,16.696,15.42,8.78
+FD003,10.3456,6.145,0.8486,34932.0,A2B (ClusterNorm),BiLSTM+Attn+ClusterNorm+BasitEns,10.431,10.346,0.82
+FD004,13.877,7.8106,0.7419,494099.1,A2B (ClusterNorm),BiLSTM+Attn+ClusterNorm+BasitEns,16.239,13.877,14.55
